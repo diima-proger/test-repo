@@ -1,7 +1,4 @@
 hello world!
 regrgtr
-<<<<<<< HEAD
 call goodbye
-=======
 ok
->>>>>>> master
