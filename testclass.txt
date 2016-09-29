@@ -1,4 +1,9 @@
 hello world!
 regrgtr
+<<<<<<< HEAD
 ok
 jh
+=======
+call goodbye
+ok
+>>>>>>> goodbye
